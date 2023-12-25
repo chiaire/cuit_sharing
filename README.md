@@ -50,11 +50,9 @@
 git clone https://github.com/andream7/cuit_sharing.git
 ```
 
-2. 若要下载单个文件夹，复制该文件夹的网址，粘贴入DownGit中，选择download即可；
+2. 若想下载特定的文件，单击该文件，网页跳转至该文件，如果有Download按钮则可直接下载；若无Download按钮，则右键单击Raw，选择另存链接文件。
 
-3. 若想下载特定的文件，单击该文件，网页跳转至该文件，如果有Download按钮则可直接下载；若无Download按钮，则右键单击Raw，选择另存链接文件。
-
-4. 若要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://zhoudaxiaa.gitee.io/downgit/#/home) 中，或者使用插件`GitZIP`(支持[Edge](https://microsoftedge.microsoft.com/addons/detail/gitzip-for-github/iemilfmlaliblejogfofhmjbfiaiegnd)、[Chrome](https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?utm_source=ext_app_menu)、Firefox等Chromium内核的浏览器，拓展商店直装)选择 download 即可。
+3. 若要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://zhoudaxiaa.gitee.io/downgit/#/home) 中，或者使用插件`GitZIP`(支持[Edge](https://microsoftedge.microsoft.com/addons/detail/gitzip-for-github/iemilfmlaliblejogfofhmjbfiaiegnd)、[Chrome](https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?utm_source=ext_app_menu)、Firefox等Chromium内核的浏览器，拓展商店直装)选择 download 即可。
 
 ## 参与贡献
   
