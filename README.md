@@ -16,7 +16,7 @@
 
 声明：本仓库不鼓励任何抄袭行为，只是提供信息共享平台，旨在帮助复习以减少挂科概率。
 
-## 本项目继承自 [andream7](https://github.com/andream7/cuit_sharing) 的项目
+## 本项目继承自 [andream7](https://github.com/andream7/cuit_sharing) 的同名项目
 
 ## 前言
 
