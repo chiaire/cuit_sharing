@@ -109,5 +109,5 @@ git clone https://github.com/andream7/cuit_sharing.git
 
 ## 联系我们
 
-如果您对该项目有任何疑问或建议，请联系我们：bh3486140032@gmail.com。
+如果您对该项目有任何疑问或建议，请联系我们。
 
