@@ -16,7 +16,7 @@
 
 声明：本仓库不鼓励任何抄袭行为，只是提供信息共享平台，旨在帮助复习以减少挂科概率。
 
-## 本项目继承自 [andream7](https://github.com/andream7/cuit_sharing) 的同名项目
+## 本项目继承自 [andream7](https://github.com/andream7/cuit_sharing) 的同名项目，部分引用了[opencuit/cuit-course](https://github.com/opencuit/cuit-course) 的资料。
 
 ## 前言
 
@@ -40,7 +40,8 @@
 - 历年试卷
 - 复习资料
 
-目前项目已覆盖大多数专业课程。
+目前项目已覆盖大多数专业课程。//部分文科类科目可点击左上角main转至分支patch3查看。
+
 
 ##  快速开始
 
