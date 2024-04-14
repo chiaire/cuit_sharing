@@ -1,3 +1,13 @@
+//二、实验内容
+//        （1）按照AES算法，完成AES算法S盒、行移位、列混合、轮密钥加操作；
+//        三、实验要求
+//        （1）把AES的S盒、行移位、列混合、轮密钥加操作写成一个函数，然后再主程序中调用；（备注：函数名称命名方式 ****_学号后2位，变量名称***_学号后2位，例如学号为“2018011263”S盒函数 SubBytes_63(unsigned char  input_63[4][4]）
+//        （2）输入128bits一个状态矩阵，输入为16进制数。状态矩阵的录入为一行，比如:
+//        00 11 22 33 44 55 66 77 88 99 aa bb cc dd ee ff
+//        则轮密钥加的子密钥如：
+//        00 01 02 03 04 05 06 07 08 09 0a 0b 0c 0d 0e 0f
+//        (请注意这里是列向优先读取数据的)
+//        （3）与标准中的样例进行比较,输入标准中样例，测试S盒、行移位、列混合和轮密钥加算法正确。
 package character;
 
 import java.util.Scanner;
@@ -7,7 +17,7 @@ public class aes{
     public static String Hex_24_24(int b) {
         return String.format("%02x", b);
     }
-    
+
     public static void main(String[] args) throws Exception{
         Scanner scanner = new Scanner(System.in);
         String[][] a = new String[4][4];
