@@ -48,7 +48,7 @@
 1. git clone（不建议）
 
 ```bash
-git clone https://github.com/andream7/cuit_sharing.git
+git clone https://github.com/Elysiamobi/cuit_sharing.git
 ```
 
 2. 若想下载特定的文件，单击该文件，网页跳转至该文件，如果有Download按钮则可直接下载；若无Download按钮，则右键单击Raw，选择另存链接文件。
