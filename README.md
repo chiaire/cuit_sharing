@@ -1,14 +1,14 @@
 <div align="center">
   <h2>成都信息工程大学课程共享计划</h3>
 
-  <img style="display: inline-block;" src="https://img.shields.io/github/watchers/andream7/cuit_sharing" alt="GitHub watchers" />
-  <a href="https://github.com/andream7/cuit_sharing/stargazers"><img style="display: inline-block;" src="https://img.shields.io/github/stars/andream7/cuit_sharing" alt="GitHub stars" /></a>
-  <a href="https://github.com/andream7/cuit_sharing/network"><img style="display: inline-block;" src="https://img.shields.io/github/forks/andream7/cuit_sharing" alt="GitHub forks" /></a>
-  <a href="https://github.com/andream7/cuit_sharing/issues"><img style="display: inline-block;" src="https://img.shields.io/github/issues/andream7/cuit_sharing" alt="GitHub issues" /></a>
-  <a href="https://github.com/andream7/cuit_sharing/pulls"><img style="display: inline-block;" src="https://img.shields.io/github/issues-pr-closed-raw/andream7/cuit_sharing" alt="GitHub closed pull requests" /></a>
-  <img style="display: inline-block;" src="https://img.shields.io/github/contributors/andream7/cuit_sharing" alt="GitHub contributors" />
-  <a href="https://github.com/andream7/cuit_sharing/blob/main/LICENSE"><img style="display: inline-block;" src="https://img.shields.io/github/license/andream7/cuit_sharing" alt="GitHub license" /></a>
-  <img style="display: inline-block;" src="https://img.shields.io/github/repo-size/andream7/cuit_sharing" alt="GitHub repo size" />
+  <img style="display: inline-block;" src="https://img.shields.io/github/watchers/elysiamobi/cuit_sharing" alt="GitHub watchers" />
+  <a href="https://github.com/elysiamobi/cuit_sharing/stargazers"><img style="display: inline-block;" src="https://img.shields.io/github/stars/elysiamobi/cuit_sharing" alt="GitHub stars" /></a>
+  <a href="https://github.com/elysiamobi/cuit_sharing/network"><img style="display: inline-block;" src="https://img.shields.io/github/forks/elysiamobi/cuit_sharing" alt="GitHub forks" /></a>
+  <a href="https://github.com/elysiamobi/cuit_sharing/issues"><img style="display: inline-block;" src="https://img.shields.io/github/issues/elysiamobi/cuit_sharing" alt="GitHub issues" /></a>
+  <a href="https://github.com/elysiamobi/cuit_sharing/pulls"><img style="display: inline-block;" src="https://img.shields.io/github/issues-pr-closed-raw/elysiamobi/cuit_sharing" alt="GitHub closed pull requests" /></a>
+  <img style="display: inline-block;" src="https://img.shields.io/github/contributors/elysiamobi/cuit_sharing" alt="GitHub contributors" />
+  <a href="https://github.com/elysiamobi/cuit_sharing/blob/main/LICENSE"><img style="display: inline-block;" src="https://img.shields.io/github/license/elysiamobi/cuit_sharing" alt="GitHub license" /></a>
+  <img style="display: inline-block;" src="https://img.shields.io/github/repo-size/elysiamobi/cuit_sharing" alt="GitHub repo size" />
 </div>
 
 
